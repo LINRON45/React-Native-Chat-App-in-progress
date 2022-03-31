@@ -8,6 +8,9 @@ App is built for androids.
 3. Setup firebase following the instructions for android on https://rnfirebase.io/
 
 
+* In the event that icons do not show, open the powershell and run react-native link react-native-vector-icons.
+
+
 # User Stories
 1. Users can send messages to each other
 2. Users can set username
