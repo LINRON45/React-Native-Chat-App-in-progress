@@ -2,7 +2,7 @@
 Experimenting with React Native by creating an app for users to text each other.
 App is built for androids.
 
-# How to install aop
+# How to install app
 1. Download or fork files from repository
 2. Run npm install/npm i
 3. Setup firebase following the instructions for android on https://rnfirebase.io/
